@@ -1,7 +1,5 @@
 name: Jekyll and Github Pages
-markdown: redcarpet2
-redcarpet:
-  extensions: ["with_toc_data", "link_attributes", "prettify"]
+markdown: redcarpet
 pygments: true
 host: localhost
 baseurl: /jekyll-presentation
