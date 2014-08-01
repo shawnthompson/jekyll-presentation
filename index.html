@@ -5,7 +5,7 @@ title: Your New Jekyll Site
 
 <div id="home">
   <h1>Blog Posts</h1>
-  [Github Repo](https://github.com/shawnthompson/jekyll-presentation)
+  <p><a href="https://github.com/shawnthompson/jekyll-presentation">Github Repo</a></p>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
