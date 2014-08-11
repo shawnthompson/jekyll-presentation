@@ -2,4 +2,5 @@ name: Jekyll and Github Pages
 markdown: redcarpet
 pygments: true
 host: localhost
-baseurl: /jekyll-presentation
+#baseurl: /jekyll-presentation
+baseurl: ""
