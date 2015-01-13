@@ -17,3 +17,4 @@ title:  Useful keyboard shortcuts for Sublime Text 2
   - Package manager
   - Git commands
   - HTMLBeautify
+* `Ctrl + /`: Add comment depended on the syntax.
