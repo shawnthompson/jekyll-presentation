@@ -11,7 +11,7 @@ title:  Useful keyboard shortcuts for Sublime Text 2
   - `#` search
   - `:` line number
 * `Ctrl (command) + Shift + L`: split selection into lines
-* `Ctrl (command) + Shift A`: select tag content, again to select tag, again to select parent, etc... (HTML syntax)
+* `Ctrl (command) + Shift A`: select tag content, again to select tag, again to select parent, etc... (HTML syntax) - _custom_: `command + + option + shift A`
 * `Ctrl (command) + Shift + P`: Command palette
   - Set Syntax: _Type_
   - Package manager
