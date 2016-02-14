@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Useful keyboard shortcuts for Sublime Text 2
+title:  Useful keyboard shortcuts for Sublime Text 3
 ---
 
 * `Ctrl (command) + d`: Select other
