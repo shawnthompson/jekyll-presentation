@@ -2,3 +2,9 @@ body {
   padding-top: 50px;
   line-height: 2em;
 }
+em {
+	letter-spacing: .1em;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: #333;
+}
