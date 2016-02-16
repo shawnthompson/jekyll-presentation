@@ -1,4 +1,4 @@
 name: Jekyll and Github Pages
-pygments: true
+highlighter: pygments
 host: localhost
 baseurl: /jekyll-presentation
