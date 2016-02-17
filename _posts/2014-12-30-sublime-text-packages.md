@@ -14,7 +14,6 @@ title:  Useful Packages for Sublime Text 3
 * SublimeLinter
 * SublimeLinter-scss-lint
 * Handlebars
-* CSS Lint
 * Color Highlighter
 * ColorPicker
 * Git Conflict Resolver
