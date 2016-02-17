@@ -27,52 +27,52 @@ Sublime Text 3 is an integrated development environment (IDE), known by most as 
 
 ### Useful packages
 
-#### [SideBar Enhancement](https://packagecontrol.io/packages/SideBarEnhancements){:target="_blank"}
+#### [SideBar Enhancement](https://packagecontrol.io/packages/SideBarEnhancements){:target="_blank"} <span class="label label-default">Enhancement</span>
 Provides enhancements to the operations on Sidebar of Files and Folders for Sublime Text.
 
-#### [HTML5](https://packagecontrol.io/packages/HTML5){:target="_blank"}
+#### [HTML5](https://packagecontrol.io/packages/HTML5){:target="_blank"} <span class="label label-default">Syntax</span>
 Add HTML5 syntax mode & snippets to Sublime Text.
 
-#### [CSS3](https://packagecontrol.io/packages/CSS3){:target="_blank"}
+#### [CSS3](https://packagecontrol.io/packages/CSS3){:target="_blank"} <span class="label label-default">Syntax</span>
 The most complete CSS support for Sublime Text 3.
 
-#### [SCSS](https://packagecontrol.io/packages/SCSS){:target="_blank"}
+#### [SCSS](https://packagecontrol.io/packages/SCSS){:target="_blank"} <span class="label label-default">Syntax</span>
 The TextMate SCSS Official Bundle. Now Compatible with SublimeText2.
 
-#### [Handlebars](https://packagecontrol.io/packages/Handlebars){:target="_blank"}
+#### [Handlebars](https://packagecontrol.io/packages/Handlebars){:target="_blank"} <span class="label label-default">Syntax</span>
 Fullest Handlebars.js templating support for Atom and Sublime Text 2 / 3. 
 
-#### [Emmet](https://packagecontrol.io/packages/Emmet){:target="_blank"}
+#### [Emmet](https://packagecontrol.io/packages/Emmet){:target="_blank"} <span class="label label-default">Enhancement / Awesomeness</span>
 Emmet is a web-developer’s toolkit that can greatly improve your HTML & CSS workflow.
 
-#### [HTMLBeautify](https://packagecontrol.io/packages/HTMLBeautify){:target="_blank"}
+#### [HTMLBeautify](https://packagecontrol.io/packages/HTMLBeautify){:target="_blank"} <span class="label label-default">Enhancement</span>
 A plugin for Sublime Text that formats (indents){:target="_blank"} HTML source code. It makes code easier for humans to read.
 
-#### [SublimeGit](https://packagecontrol.io/packages/SublimeGit){:target="_blank"}
+#### [SublimeGit](https://packagecontrol.io/packages/SublimeGit){:target="_blank"} <span class="label label-default">git</span>
 Full-featured Git integration for Sublime Text 2 and 3
 
-#### [GitGutter](https://packagecontrol.io/packages/GitGutter){:target="_blank"}
+#### [GitGutter](https://packagecontrol.io/packages/GitGutter){:target="_blank"} <span class="label label-default">git</span>
 A sublime text 2/3 plugin to show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
 
-#### [Git Conflict Resolver](https://packagecontrol.io/packages/Git%20Conflict%20Resolver){:target="_blank"}
+#### [Git Conflict Resolver](https://packagecontrol.io/packages/Git%20Conflict%20Resolver){:target="_blank"} <span class="label label-default">git</span>
 A little plugin to help you resolving this nasty conflicts.
 
-#### [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter){:target="_blank"}
+#### [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter){:target="_blank"} <span class="label label-default">Enhancement</span>
 Bracket Highlighter matches a variety of brackets such as: `[]`, `()`, `{}`, `""`, `''`, #!xml` `<tag></tag>`, and even custom brackets.
 
-#### [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing){:target="_blank"}
+#### [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing){:target="_blank"} <span class="label label-default">Markdown</span>
 Markdown plugin for Sublime Text. Provides a decent Markdown color scheme (light and dark) with more robust syntax highlighting and useful Markdown editing features for Sublime Text. 3 flavors are supported: Standard Markdown, GitHub flavored Markdown, MultiMarkdown.
 
-#### [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview){:target="_blank"}
+#### [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview){:target="_blank"} <span class="label label-default">Markdown</span>
 Preview and build your markdown files quickly in your web browser from sublime text 2/3.
 
-#### [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter){:target="_blank"}
+#### [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter){:target="_blank"} <span class="label label-default">Colour</span>
 ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like "#FFFFFF", "rgb(255,255,255)", "white", etc.) with their real color. Also, plugin adds color picker to easily modify colors.
 
-#### [ColorPicker](https://packagecontrol.io/packages/ColorPicker){:target="_blank"}
+#### [ColorPicker](https://packagecontrol.io/packages/ColorPicker){:target="_blank"} <span class="label label-default">Colour</span>
 A multi-platform color picker plugin
 
-#### [Readme Please](https://github.com/roadhump/ReadmePlease){:target="_blank"}
+#### [Readme Please](https://github.com/roadhump/ReadmePlease){:target="_blank"} <span class="label label-default">Enhancement</span>
 Every package comes with a README markdown file, this package lists them all and lets you access them quickly
 
 ## Short cuts
