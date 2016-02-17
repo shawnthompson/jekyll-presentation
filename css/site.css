@@ -26,6 +26,9 @@ em {
 	padding-right: 5px;
 	color: #333;
 }
+.label {
+	font-size: 65%;
+}
 .navbar .container {
 	background-color: #333;
 }
