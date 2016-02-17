@@ -1,11 +1,24 @@
 body {
   padding-top: 50px;
-  line-height: 2em;
+  line-height: 1.7em;
   background-color: #000;
   font-size: 2em;
 }
 h1 {
 	font-size: 200%;
+}
+
+h2 {
+	font-size: 160%;
+	margin-top: 20px;
+}
+h3 {
+	font-size: 130%;
+	margin-bottom: 5px;
+}
+h4 {
+	font-size: 110%;
+	margin-top: 20px;
 }
 em {
 	letter-spacing: .1em;
