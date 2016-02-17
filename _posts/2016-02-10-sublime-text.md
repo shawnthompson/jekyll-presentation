@@ -11,56 +11,71 @@ Sublime Text 3 is an integrated development environment (IDE), known by most as 
 
 ### Sublime Text
 
-[Sublime Text 3](http://www.sublimetext.com/3)
+[Sublime Text 3](http://www.sublimetext.com/3){:target="_blank"}
+
+## Project
+
+* Adding a folder to a project
+* Saving a project
+* Opening a project
+
+## Packages
 
 ### Package Control
+* [Package Control](https://packagecontrol.io/installation#st3){:target="_blank"}
+* Tools > Command Palette > Package Control: Install Package
 
-[Package Control](https://packagecontrol.io/installation#st3)
+### Useful packages
 
-### Packages
+#### [SideBar Enhancement](https://packagecontrol.io/packages/SideBarEnhancements){:target="_blank"}
+Provides enhancements to the operations on Sidebar of Files and Folders for Sublime Text.
 
-#### SideBar Enhancement
+#### [HTML5](https://packagecontrol.io/packages/HTML5){:target="_blank"}
+Add HTML5 syntax mode & snippets to Sublime Text.
 
-#### Emmet
+#### [CSS3](https://packagecontrol.io/packages/CSS3){:target="_blank"}
+The most complete CSS support for Sublime Text 3.
 
-#### HTML5
+#### [SCSS](https://packagecontrol.io/packages/SCSS){:target="_blank"}
+The TextMate SCSS Official Bundle. Now Compatible with SublimeText2.
 
-#### HTMLBeautify
+#### [Handlebars](https://packagecontrol.io/packages/Handlebars){:target="_blank"}
+Fullest Handlebars.js templating support for Atom and Sublime Text 2 / 3. 
 
-#### CSS3
+#### [Emmet](https://packagecontrol.io/packages/Emmet){:target="_blank"}
+Emmet is a web-developer’s toolkit that can greatly improve your HTML & CSS workflow.
 
-#### SublimeGit
+#### [HTMLBeautify](https://packagecontrol.io/packages/HTMLBeautify){:target="_blank"}
+A plugin for Sublime Text that formats (indents){:target="_blank"} HTML source code. It makes code easier for humans to read.
 
-#### BracketHighlighter
+#### [SublimeGit](https://packagecontrol.io/packages/SublimeGit){:target="_blank"}
+Full-featured Git integration for Sublime Text 2 and 3
 
-#### MarkdownEditing
+#### [GitGutter](https://packagecontrol.io/packages/GitGutter){:target="_blank"}
+A sublime text 2/3 plugin to show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
 
-#### GitGutter
+#### [Git Conflict Resolver](https://packagecontrol.io/packages/Git%20Conflict%20Resolver){:target="_blank"}
+A little plugin to help you resolving this nasty conflicts.
 
-#### SCSS
+#### [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter){:target="_blank"}
+Bracket Highlighter matches a variety of brackets such as: `[]`, `()`, `{}`, `""`, `''`, #!xml` `<tag></tag>`, and even custom brackets.
 
-#### SublimeLinter
+#### [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing){:target="_blank"}
+Markdown plugin for Sublime Text. Provides a decent Markdown color scheme (light and dark) with more robust syntax highlighting and useful Markdown editing features for Sublime Text. 3 flavors are supported: Standard Markdown, GitHub flavored Markdown, MultiMarkdown.
 
-#### SublimeLinter-scss-lint
+#### [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview){:target="_blank"}
+Preview and build your markdown files quickly in your web browser from sublime text 2/3.
 
-#### Handlebars
+#### [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter){:target="_blank"}
+ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like "#FFFFFF", "rgb(255,255,255)", "white", etc.) with their real color. Also, plugin adds color picker to easily modify colors.
 
-#### CSS Lint
+#### [ColorPicker](https://packagecontrol.io/packages/ColorPicker){:target="_blank"}
+A multi-platform color picker plugin
 
-#### Color Highlighter
-
-#### ColorPicker
-
-#### Git Conflict Resolver
-
-#### Markdown Editing
-
-#### Markdown Preview
-
-#### Readme Please
+#### [Readme Please](https://github.com/roadhump/ReadmePlease){:target="_blank"}
+Every package comes with a README markdown file, this package lists them all and lets you access them quickly
 
 ## Short cuts
-
 * `Ctrl (command) + d`: Select other
   - `Ctrl (command) + k`: Skip selection
   - `Ctrl (command) + u`: Undo selection
@@ -79,8 +94,8 @@ Sublime Text 3 is an integrated development environment (IDE), known by most as 
 * `Alt (control) + Shift + W`: wrap selection with tag
 * `Alt (option) + click` on a folder to either *expend* or *hide* all folder
 
-## Colo(u)r Schemes
-
+## Useful Links
+* [Sublime Text 2 - Useful Shortcuts](https://gist.github.com/nuxlli/1207014){:target="_blank"}
 
 
 
