@@ -79,8 +79,6 @@ Every package comes with a README markdown file, this package lists them all and
 
 ## Short cuts
 * `Ctrl (command) + d`: Select other
-  - `Ctrl (command) + k`: Skip selection
-  - `Ctrl (command) + u`: Undo selection
 * `Ctrl (command) + Alt + p`: Switch projects
 * `Ctrl (command) + p`: Go to
   - `#` search
