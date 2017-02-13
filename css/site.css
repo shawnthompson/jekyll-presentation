@@ -1,8 +1,8 @@
 body {
-  padding-top: 50px;
-  line-height: 1.7em;
-  background-color: #000;
-  font-size: 2em;
+	padding-top: 50px;
+	line-height: 1.7em;
+	background-color: #000;
+	font-size: 2em;
 }
 h1 {
 	font-size: 200%;
@@ -32,10 +32,24 @@ em {
 .navbar .container {
 	background-color: #333;
 }
+
+.navbar-inverse .navbar-brand {
+	color: #fff;
+}
+
+
+.navbar-inverse .navbar-brand:hover {
+	color: #ccc;
+}
+
 main {
 	background-color: #fff;
 }
 .footer {
 	background-color: #000;
 	padding: 30px 0 50px;
+}
+
+.footer .text-muted {
+	color:  #fff;
 }
